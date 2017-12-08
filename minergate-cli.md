@@ -1,5 +1,6 @@
 # Minergate-cli
 
+There doesn't seem to be any documentation ont he Minergate-CLI instance. If anyone knows more info message/comment
 
 ### Download and Install
 
