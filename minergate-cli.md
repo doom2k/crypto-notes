@@ -1,9 +1,10 @@
 # Minergate-cli
 
-There doesn't seem to be any documentation ont he Minergate-CLI instance. If anyone knows more info message/comment
+There doesn't seem to be any documentation on the Minergate-CLI instance. If anyone knows more info message/comment
 
 ### Download and Install
 
+* Debian & Ubuntu * 
 ``` sudo apt-get update && wget https://minergate.com/download/deb-cli -O minergate-cli.deb && sudo dpkg -i minergate-cli.deb ```
 
 ### Run the program
