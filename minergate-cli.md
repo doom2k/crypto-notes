@@ -9,8 +9,10 @@ There doesn't seem to be any documentation on the Minergate-CLI instance. If any
 
 ### Run the program
 
-minergate-cli -user <YOUR@EMAIL> -{coin core}
-``` minergate-cli -user YOUR@EMAIL -XMR 2 ```
+minergate-cli -user <YOUR@EMAIL> -{coin core} 
+
+``` minergate-cli -user YOUR@EMAIL -XMR 2 ``` 
+
 If you dont put a core number, then it will use all cores
 
 
